@@ -3,7 +3,7 @@ title: "SPARKLE: Zero-Shot Discovery of High-Performance, Low-Cost Organic Batte
 collection: publications
 category: manuscripts
 permalink: /publication/SPARKLE
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-12-01
 venue: 'Journal of the American Chemical Society'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

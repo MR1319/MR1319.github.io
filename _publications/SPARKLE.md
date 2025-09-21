@@ -8,8 +8,8 @@ date: 2024-11-01
 venue: 'Journal of the American Chemical Society'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 link: 'https://pubs.acs.org/doi/abs/10.1021/jacs.4c11663'
-github: 'https://github.com/PaulsonLab/SPARKLE'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
+![Github: ](https://github.com/PaulsonLab/SPARKLE)

@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Madhav Muthyala, a 4th year PhD student in the department of Chemical Engineering at the
-![University of Wisconsin–Madison](/images/uw_madison.jpeg){: .align-left .w-20 }
-**University of Wisconsin–Madison.**
+I’m Madhav Muthyala, a 4th year PhD student in the department of Chemical Engineering at the <img src="/images/uw_madison.jpeg" alt="University of Wisconsin–Madison" style="width: 50px; vertical-align: middle; margin: 0 0.5em;"> **University of Wisconsin–Madison.**
 
 My research focuses on **Bayesian Optimization**, developing frameworks for **interpretable machine learning** (Symbolic Regression), decision-making under uncertainty in molecule design spaces, and **generative modelling**.
 
